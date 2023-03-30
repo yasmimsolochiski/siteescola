@@ -1,0 +1,20 @@
+    * {
+    margin: 0 ;
+    padding: 0 ;
+    } 
+    .cabecalho {
+    background-color: #427E86;
+    color: black;
+    display: flex;
+    justify-content:space-around ;
+    }
+    .cabecalho-lista-itens{
+    width: 10%;
+    }
+    .cabecalho-lista-itens{
+        display: inline-block;
+    margin: 0% 16px;
+    justify-content: space-around;
+    padding: 24px;
+    font-size: 30px;
+    }
